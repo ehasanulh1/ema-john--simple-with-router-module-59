@@ -29,6 +29,7 @@
 }
 
 .btn-logout:hover {
+    cursor: pointer;
     color: #1C2B35;
     background-color: #ffffff;
 }
