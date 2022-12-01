@@ -38,7 +38,6 @@ function App() {
   ])
   return (
     <div>
-      <h1>this is new create</h1>
       <RouterProvider router={router}></RouterProvider>
     </div>
   );
